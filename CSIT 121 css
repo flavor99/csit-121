@@ -1,5 +1,5 @@
-body {background-color: darkred;}
-h1 {color: blue;}
+body {background-color: blue;}
+h1 {color: white;}
 h2 {font-family: fantasy;}
 p {margin: 25px}
 li {text-transform: capitalize}
