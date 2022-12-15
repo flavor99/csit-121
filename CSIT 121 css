@@ -1,0 +1,5 @@
+body {background-color: darkred;}
+h1 {color: blue;}
+h2 {font-family: fantasy;}
+p {margin: 25px}
+li {text-transform: capitalize}
